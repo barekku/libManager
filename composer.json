@@ -17,13 +17,5 @@
             "type": "vcs",
             "url": "git@github.com:Vasiliy-Makogon/Database.git"
         }
-    },
-    "autoload": {
-        "psr-4": { "": "classes/" },
-        "classmap": [
-            "vendor/krugozor/database/Mysql.php",
-            "vendor/krugozor/database/Mysql/Exception.php",
-            "vendor/krugozor/database/Mysql/Statement.php"
-        ]
     }
 }

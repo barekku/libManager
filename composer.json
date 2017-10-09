@@ -1,5 +1,6 @@
 {
-    "name": "barekku/binarikatask",
+    "name": "barekku/LibraryManager",
+    "version":"1.0.0",
     "type": "library",
     "authors": [
         {

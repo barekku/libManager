@@ -17,5 +17,8 @@
             "type": "vcs",
             "url": "git@github.com:Vasiliy-Makogon/Database.git"
         }
+    },
+    "autoload": {
+        "psr-4": {"Binarika\\":"vendor/barekku/binarika"}
     }
 }

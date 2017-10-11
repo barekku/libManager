@@ -1,6 +1,5 @@
 {
     "name": "barekku/binarika",
-    "version":"1.0.0",
     "type": "library",
     "authors": [
         {
@@ -19,6 +18,9 @@
         }
     },
     "autoload": {
-        "psr-4": {"Binarika\\":"vendor/barekku/binarika"}
-    }
+        "classmap":["../krugozor/database/"],
+        "psr-4": {
+            "Barekku\\LibraryManager\\": "" 
+        }
+    }    
 }

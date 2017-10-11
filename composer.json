@@ -22,7 +22,7 @@
 		"../../krugozor/database/Mysql.php"
 	],
         "psr-4": {
-            "Barekku\\LibraryManager\\": "" 
+            "Barekku\\": "" 
         }
     }    
 }

@@ -1,5 +1,5 @@
 <?php
-namespace Binarika;
+namespace Barekku;
 
 class LibManager extends \Database_Mysql
 {

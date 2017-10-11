@@ -19,7 +19,9 @@
     },
     "autoload": {
         "classmap":[
-		"../../krugozor/database/Mysql.php"
+		"krugozor/database/Mysql.php",
+		"krugozor/database/Mysql/Exception.php",
+		"krugozor/database/Mysql/Statement.php"
 	],
         "psr-4": {
             "Barekku\\": "" 
